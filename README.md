@@ -95,12 +95,12 @@ game-app-backend/
 El backend está desplegado en Render en la siguiente URL:
 
 ```
-https://game-app-backend.onrender.com
+https://game-app-backend-d88t.onrender.com
 ```
 
 ### Ejemplo de solicitud al servidor en producción:
 ```bash
-curl "https://game-app-backend.onrender.com/play/rock-paper-scissors?playerMove=PAPER"
+curl "https://game-app-backend-d88t.onrender.com/play/rock-paper-scissors?playerMove=PAPER"
 ```
 
 ## Desarrollo
